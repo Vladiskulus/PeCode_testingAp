@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txt">20sp</dimen>
+    <dimen name="txt_button">30sp</dimen>
+    <dimen name="elevation">10dp</dimen>
+    <dimen name="card_notification_size">170dp</dimen>
+    <dimen name="card_button_size">60dp</dimen>
+    <dimen name="corner_radius">90dp</dimen>
+    <dimen name="margin">50dp</dimen>
+    <dimen name="zero">0dp</dimen>
+</resources>
